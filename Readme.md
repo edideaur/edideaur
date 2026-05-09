@@ -31,7 +31,7 @@
 [![Tools](https://skillicons.dev/icons?i=androidstudio,blender,figma,git,godot,raspberrypi,unity,unreal,visualstudio,vscodium,vitest&perline=12)](https://skillicons.dev)
 
 **Operating Systems**  
-[![OS](https://skillicons.dev/icons?i=arch,debian,linux,mint,nix&perline=12)](https://skillicons.dev)
+[![OS](https://skillicons.dev/icons?i=arch,debian,linux,mint,nix,windows&perline=12)](https://skillicons.dev)
 
 ### Contact
 
