@@ -37,5 +37,6 @@
 
 - Instagram - [edideaur](https://instagram.com/edideaur)
 - Email - [eduard@prigoana.com](mailto:eduard@prigoana.com)
-- Discord - edideaur
+- Discord - edideaur  
 
+available to hire and comission. contact me.
