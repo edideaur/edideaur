@@ -39,4 +39,4 @@
 - Email - [eduard@prigoana.com](mailto:eduard@prigoana.com)
 - Discord - edideaur  
 
-available to hire and comission. contact me.
+available to hire and commission. contact me.
